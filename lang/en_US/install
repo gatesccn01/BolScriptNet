@@ -1,6 +1,6 @@
 a1='Installing necessary packages'
 a2='This is a script under development and there may\nstill be errors, do you want to continue?'
-a3=''
+a3='Continue [Y/N]'
 a4=''
 a5=''
 a6=''
