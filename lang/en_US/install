@@ -1,5 +1,5 @@
 a1='Installing necessary packages'
-a2=''
+a2='This is a script under development and there may\nstill be errors, do you want to continue?'
 a3=''
 a4=''
 a5=''
